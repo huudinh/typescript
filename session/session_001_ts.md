@@ -73,4 +73,4 @@ Tuy nhiên, nếu dự án của bạn là một ứng dụng nhỏ hoặc tạo
 
 Tóm lại, việc lựa chọn giữa TypeScript và JavaScript phụ thuộc vào tính chất của dự án và mục đích sử dụng.
 
-*Bài tiếp theo [TS2 Cài đặt TypeScript](/lesson/session/session_002_ts_setup.md)*
+*Bài tiếp theo [TS2 Cài đặt TypeScript](/session/session_002_ts_setup.md)*

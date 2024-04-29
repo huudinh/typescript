@@ -82,4 +82,4 @@ var cust = new Customer("Jimi", "Scott");
 
 Như vậy là ta đã biên dịch thành công và sau này khi sử dụng thì ta sẽ sử dụng file Customer.js này.
 
-*Bài tiếp theo [TS2 Cài đặt TypeScript](/lesson/session/session_002_ts_setup.md)*
+*Bài tiếp theo [TS2 Cài đặt TypeScript](/session/session_002_ts_setup.md)*
