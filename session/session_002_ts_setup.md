@@ -84,7 +84,7 @@ Như vậy là ta đã biên dịch thành công và sau này khi sử dụng th
 
 ### Chay Code TypeScript
 
-- Cách 1: sử dụng nodejs
+#### Cách 1: sử dụng nodejs
 
 ```
 node Customer.js
@@ -106,7 +106,7 @@ ts-node Customer.ts
 
 Lưu ý với câu lệnh này bạn ko cần không tạo ra file .js 
 
-Cách 2: sử dụng browser (với file .js)
+#### Cách 2: sử dụng browser (với file .js)
 
 
 *Bài tiếp theo [TS2 Cài đặt TypeScript](/session/session_002_ts_setup.md)*
