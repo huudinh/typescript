@@ -1,9 +1,10 @@
 # TS1 TypeScript là gì?
 
+Trước khi học TypeScript thì bạn nên tìm hiểu qua ECMAScript 2015 ES6 bởi TypeScript sử dụng các kỹ thuật nâng cao mà chỉ có ở ES6. 
+
 ![Create-HTML-1](images/type-script.png)
 
 
-Trước khi học TypeScript thì bạn nên tìm hiểu qua ECMAScript 2015 ES6 bởi TypeScript sử dụng các kỹ thuật nâng cao mà chỉ có ở ES6. 
 
 ### Giới thiệu về TypeScript
 
