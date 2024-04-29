@@ -82,4 +82,31 @@ var cust = new Customer("Jimi", "Scott");
 
 Như vậy là ta đã biên dịch thành công và sau này khi sử dụng thì ta sẽ sử dụng file Customer.js này.
 
+### Chay Code TypeScript
+
+- Cách 1: sử dụng nodejs
+
+```
+node Customer.js
+```
+
+Hoặc sử dụng thư viện ts-node 
+
+Bạn cần cài đặt thư viện ts-node 
+
+```
+npm install -g ts-node
+
+```
+Sau đó gọi trực tiếp file .ts
+
+```
+ts-node Customer.ts
+```
+
+Lưu ý với câu lệnh này bạn ko cần không tạo ra file .js 
+
+Cách 2: sử dụng browser (với file .js)
+
+
 *Bài tiếp theo [TS2 Cài đặt TypeScript](/session/session_002_ts_setup.md)*
