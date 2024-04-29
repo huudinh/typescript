@@ -89,6 +89,11 @@ Như vậy là ta đã biên dịch thành công và sau này khi sử dụng th
 ```
 node Customer.js
 ```
+Để chạy code trên bạn cần biên dịch từ ts => js bằng câu lệnh
+
+```
+tcs Customer.ts
+```
 
 Hoặc sử dụng thư viện ts-node 
 
