@@ -2,10 +2,6 @@
 
 Trước khi học TypeScript thì bạn nên tìm hiểu qua ECMAScript 2015 ES6 bởi TypeScript sử dụng các kỹ thuật nâng cao mà chỉ có ở ES6. 
 
-![Create-HTML-1](images/type-script.png)
-
-
-
 ### Giới thiệu về TypeScript
 
 TypeScript viết tắt TS là lập trình hướng đối tượng (OOP) mã nguồn mở được phát triển bởi Microsoft, được xem là phiên bản nâng cao của JavaScript.
