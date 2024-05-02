@@ -87,12 +87,12 @@ Như vậy là ta đã biên dịch thành công và sau này khi sử dụng th
 #### Cách 1: sử dụng nodejs
 
 ```
-node Customer.js
+node ten_file.js
 ```
 Để chạy code trên bạn cần biên dịch từ ts => js bằng câu lệnh
 
 ```
-tcs Customer.ts
+tcs ten_file.ts
 ```
 
 Hoặc sử dụng thư viện ts-node 
@@ -106,12 +106,18 @@ npm install -g ts-node
 Sau đó gọi trực tiếp file .ts
 
 ```
-ts-node Customer.ts
+ts-node ten_file.ts
 ```
 
 Lưu ý với câu lệnh này bạn ko cần không tạo ra file .js 
 
 #### Cách 2: sử dụng browser (với file .js)
 
+Đây là phương pháp thông thường khi bạn nhúng file js vao file html thông qua thẻ <script src="ten_file_js"></script>
+Để chạy được phương pháp này bạn cần biên dịch từ ts => js bằng câu lệnh
 
-*Bài tiếp theo [TS2 Cài đặt TypeScript](/session/session_002_ts_setup.md)*
+```
+tcs ten_file.ts
+```
+
+*Bài tiếp theo [TS3 Tại Sao Lại Cần TypeScript](/session/session_003_ts_why.md)*
