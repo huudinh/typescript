@@ -1,4 +1,4 @@
-# TS4 TS5 Type Annotations
+# TS5 Type Annotations
 ### Annotations là gì ?
 
 Trong TypeScript, “annotations” thường được hiểu là việc sử dụng kiểu dữ liệu tĩnh để chỉ định rõ kiểu dữ liệu cho các định danh như biến, hàm, đối tượng. TypeScript sử dụng cú pháp : type sau một định danh để làm type annotation, trong đó type có thể là bất kỳ kiểu dữ liệu hợp lệ nào. 
