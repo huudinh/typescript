@@ -50,4 +50,4 @@ TypeScript hỗ trợ tất cả các kiểu dữ liệu nguyên thủy (Primiti
 - Ngoài ra, TypeScript còn hỗ trợ thêm một số kiểu dữ liệu khác như enum, tuple, any, unknown, never, và các kiểu dữ liệu tùy chỉnh (được tạo ra bằng từ khóa type hoặc interface).
 
 
-*Bài tiếp theo [TS5 Type Annotations - Keyword Type](/session/session_004_ts_Annotations.md)*
+*Bài tiếp theo [TS5 Type Annotations](/session/session_005_ts_annotations.md)*
