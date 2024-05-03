@@ -58,6 +58,4 @@ Nhờ vậy, bạn có thể phát hiện và sửa lỗi ngay lúc viết code,
 Điều này giúp giảm thiểu số lượng lỗi và làm tăng chất lượng code.
 
 
-
-
-*Bài tiếp theo [TS2 Cài đặt TypeScript](/session/session_002_ts_setup.md)*
+*Bài tiếp theo [TS4 TypeScript Types](/session/session_004_ts_types.md)*
