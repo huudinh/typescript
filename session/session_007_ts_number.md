@@ -37,6 +37,6 @@ let discount = 6.69;
 // TypeScript tự động suy luận kiểu number cho biến discount với giá trị khởi tạo là 6.69
 ```
 
-Tóm lại:  Trong TypeScript, khi bạn sử dụng kiểu number, bạn có thể đại diện cho cả số thực, số nguyên và số nguyên lớn (BigInt) một cách linh hoạt mà không cần quan tâm đến các khái niệm kiểu dữ liệu cụ thể như float, int, double.
+Trong TypeScript, khi bạn sử dụng kiểu number, bạn có thể đại diện cho cả số thực, số nguyên và số nguyên lớn (BigInt) một cách linh hoạt mà không cần quan tâm đến các khái niệm kiểu dữ liệu cụ thể như float, int, double.
 
 *Bài tiếp theo [TS8 String Type](/session/session_007_ts_string.md)*
