@@ -102,4 +102,4 @@ type Point = {
 };
 ```
 
-*Bài tiếp theo [TS7 Number Type](/session/session_006_ts_number.md)*
+*Bài tiếp theo [TS7 Number Type](/session/session_007_ts_number.md)*
