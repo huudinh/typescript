@@ -39,4 +39,4 @@ let discount = 6.69;
 
 Trong TypeScript, khi bạn sử dụng kiểu number, bạn có thể đại diện cho cả số thực, số nguyên và số nguyên lớn (BigInt) một cách linh hoạt mà không cần quan tâm đến các khái niệm kiểu dữ liệu cụ thể như float, int, double.
 
-*Bài tiếp theo [TS8 String Type](/session/session_007_ts_string.md)*
+*Bài tiếp theo [TS8 String Type](/session/session_008_ts_string.md)*
