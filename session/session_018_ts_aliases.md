@@ -47,4 +47,4 @@ function processInput(input: NumberOrString) {
 
 Bây giờ, bạn có thể sử dụng NumberOrString ở bất cứ đâu trong mã của bạn mà bạn muốn chỉ định một giá trị có thể là một số hoặc một chuỗi
 
-*Bài tiếp theo [TS19 TypeScript If else](/session/session_019_ts_if.md)*
+*Bài tiếp theo [TS19 If else](/session/session_019_ts_if.md)*
