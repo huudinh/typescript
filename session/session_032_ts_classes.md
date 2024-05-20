@@ -1,4 +1,4 @@
-# TS31 TypeScript Function Overloading
+# TS32 Classes
 
 Trong TypeScript, Function Overloading (nạp chồng hàm) cho phép bạn thiết lập mối quan hệ giữa các kiểu tham số và kiểu kết quả của một hàm. Điều này khác với việc nạp chồng hàm được hỗ trợ bởi các ngôn ngữ tĩnh khác như C# và Java.
 
