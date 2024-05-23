@@ -37,7 +37,7 @@ empObj.empCode = 100; // Lỗi biên dịch: Không thể thay đổi thuộc t�
 Như bạn có thể thấy ở ví dụ trên, thuộc tính empCode là chỉ đọc, vì vậy chúng ta có thể gán một giá trị tại thời điểm tạo một đối tượng. Theo cách tương tự, bạn có thể sử dụng Readonly<T> để tạo kiểu chỉ đọc
 
 
-### readonly và const
+### Readonly và Const
 
 - readonly áp dụng cho thuộc tính của lớp hoặc giao diện, trong khi const áp dụng cho biến.
 - readonly chỉ đảm bảo thuộc tính không thể thay đổi giá trị sau khi khởi tạo, nhưng không đảm bảo tính bất biến (immutability) của đối tượng.
