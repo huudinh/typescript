@@ -33,4 +33,4 @@ Trong ví dụ trên, Animal là một abstract class có một phương thức 
 
 Lưu ý rằng chúng ta không thể tạo một đối tượng mới từ lớp Animal vì nó là một abstract class.
 
-*Bài tiếp theo [TS39 TypeScript Abstract Classes](/session/session_039_ts_abstract.md)*
+*Bài tiếp theo [TS39 Interfaces](/session/session_039_ts_interfaces.md)*
