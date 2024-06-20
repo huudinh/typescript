@@ -1,4 +1,7 @@
-"# typescript" 
+## TypeScript Basic
+
+### Mục lục
+
 1. [TS1 TypeScript là gì?](/session/session_001_ts.md)
 
 2. [TS2 Cài đặt TypeScript](/session/session_002_ts_setup.md)
